@@ -1,3 +1,5 @@
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Jeevanshi Bansal</h1>
+
 # 💫 About Me:
 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur.<br>👩‍💻 Frontend Web-Developer, Web designer.<br>🖥️ Tech Enthusiast.<br>📈 Open to work.
 
