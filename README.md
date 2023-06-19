@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur.<br>👩‍💻 Frontend Web-Developer, Web designer.<br>🖥️ Tech Enthusiast.<br>📈 Open to work.
-<p align="center">
+<p>
 	<a href="https://app.daily.dev/jeevanshib"><img src="https://api.daily.dev/devcards/8d8ed65578eb4fa2958c5edefd270196.png?r=vje" width="400" alt="Jeevanshi Bansal's Dev Card"/></a>
 </p>
 
