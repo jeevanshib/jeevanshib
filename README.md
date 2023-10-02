@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Jeevanshi Bansal</h1>
 
 # 💫 About Me:
-📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur.<br>👩‍💻 Frontend Web-Developer, Web designer.<br>🖥️ Tech Enthusiast.<br>📈 Open to work.
+📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur.<br>👩‍💻 Frontend Web-Developer, Web designer.<br>🖥️ Tech Enthusiast.<br>📈 Open to work. <br>📂 Open Source Contributor.
 <picture> <a href="https://app.daily.dev/jeevanshib"><img align="right" src="https://api.daily.dev/devcards/8d8ed65578eb4fa2958c5edefd270196.png?r=lto" width="400" alt="Jeevanshi Bansal's Dev Card"/></a></picture>
 <br>
 ## 🌐 Socials:
